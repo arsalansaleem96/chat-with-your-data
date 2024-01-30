@@ -14,6 +14,10 @@ This project facilitates chatting with your PDF data and can run locally, elimin
 - Run the following command: `pip install -r requirements.txt`.
 - Finally, execute `streamlit run app.py`.
 
+## Features
+
+- Multiple File Uploads: Users can upload multiple files simultaneously.
+- Conversation Memory: The system retains chat history, allowing users to ask follow-up questions based on previous interactions.
 
 # Acknowledgments
 
