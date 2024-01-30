@@ -44,10 +44,13 @@ def read_and_save_file():
         os.remove(file_path)
 
 
-def page():
+def initialize_session():
     if len(st.session_state) == 0:
         st.session_state["messages"] = []
         st.session_state["assistant"] = ChatAI()
+
+def page():
+    initialize_session()
 
     st.header("Chat with your data")
 
