@@ -4,6 +4,13 @@
 
 This project facilitates chatting with your PDF data and can run locally, eliminating dependency on OpenAI API calls. This project is using [Langchain](https://python.langchain.com/docs/get_started/introduction) + [Ollama](https://ollama.ai/) + [Mistral](https://mistral.ai/news/announcing-mistral-7b/) + [streamlit-chat](https://github.com/AI-Yash/st-chat).
 
+
+
+
+https://github.com/arsalansaleem96/chat-with-your-data/assets/13997274/74e316fb-4ef0-4511-bed7-6d9ae28d8d7a
+
+
+
 # Getting Started
 
 ## Usage
